@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# logs
+logs
+*.log
+
+# Dist folder
+dist
+.temp
+
+# ide support
+.vscode
+*.iml
+.idea
+.DS_Store
